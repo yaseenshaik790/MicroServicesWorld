@@ -1,0 +1,5 @@
+com\asb\example\resource\StudentController.class
+com\asb\example\repository\StudentRepository.class
+com\asb\example\model\Student.class
+com\asb\example\service\StudentService.class
+com\asb\example\SpringBootMangodbCrudExampleApplication.class
